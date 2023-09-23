@@ -1,0 +1,27 @@
+
+.userName{
+    position: relative;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+
+.profileMenu{
+    position: absolute;
+    min-width: 50px;
+    background-color: #fff;
+    list-style-type: none;
+    min-height: 50px;
+    border-radius: 7px;
+    border: 1px solid #000;
+    padding: 10px 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.profile__li{
+    color: #000;
+    font-size: 15px;
+
+}
